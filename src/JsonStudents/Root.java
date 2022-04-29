@@ -33,21 +33,6 @@ public class Root {
         this.speciality = speciality;
     }
 
-    public String getFirstName() {
-        return firstName;
-    }
-
-    public String getLastName(String lastName) {
-        return this.lastName;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public String getSpeciality() {
-        return speciality;
-    }
 
     @Override
     public String toString() {
