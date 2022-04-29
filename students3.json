@@ -1,0 +1,36 @@
+{
+  "students":[
+    {
+      "firstName":"Ataibek",
+      "lastName":"Nurbek",
+      "age":21,
+      "speciality":"Information Systems",
+      "courses":[
+        {
+          "courseName":"Math",
+          "courseHour":28
+        },
+        {
+          "courseName":"Java",
+          "courseHour":30
+        }
+      ]
+    },
+    {
+      "firstName":"Zhumabek",
+      "lastName":"Kumarbek",
+      "age":19,
+      "speciality":"Computer Science",
+      "courses":[
+        {
+          "courseName":"Math",
+          "courseHour":28
+        },
+        {
+          "courseName":"Java",
+          "courseHour":30
+        }
+      ]
+    }
+  ]
+}

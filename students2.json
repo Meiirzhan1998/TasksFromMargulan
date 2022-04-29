@@ -1,0 +1,16 @@
+{
+  "students":[
+    {
+      "firstName":"Ataibek",
+      "lastName":"Nurbek",
+      "age":21,
+      "speciality":"Information Systems"
+    },
+    {
+      "firstName":"Zhumabek",
+      "lastName":"Kumarbek",
+      "age":19,
+      "speciality":"Computer Science"
+    }
+  ]
+}
