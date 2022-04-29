@@ -1,16 +1,14 @@
-package JsonStudents;
+package JsonStudentsArray;
 
-public class Root {
+public class Students {
     private String firstName;
     private String lastName;
     private int age;
     private String speciality;
 
-    public Root() {
 
-    }
 
-    public Root(String firstName, String lastName, int age, String speciality) {
+    public Students(String firstName, String lastName, int age, String speciality) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.age = age;
@@ -33,10 +31,9 @@ public class Root {
         this.speciality = speciality;
     }
 
-
     @Override
     public String toString() {
-        return "Root{" +
+        return "Student{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", age=" + age +
@@ -44,4 +41,3 @@ public class Root {
                 '}';
     }
 }
-

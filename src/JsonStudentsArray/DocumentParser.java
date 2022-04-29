@@ -1,4 +1,4 @@
-package JsonStudents;
+package JsonStudentsArray;
 
 public interface DocumentParser {
     public Root parse();

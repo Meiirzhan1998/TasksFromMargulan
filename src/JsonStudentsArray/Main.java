@@ -1,4 +1,4 @@
-package JsonStudents;
+package JsonStudentsArray;
 
 import java.io.IOException;
 

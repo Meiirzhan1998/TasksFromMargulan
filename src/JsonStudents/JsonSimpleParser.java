@@ -21,8 +21,8 @@ public class JsonSimpleParser implements DocumentParser{
             long age = (long) rootJsonObject.get("age");
             String speciality = (String) rootJsonObject.get("speciality");
 
-            root.setFirstName(firstName);
-            root.setLastName(lastName);
+            root.setfirstName(firstName);
+            root.setlastName(lastName);
             root.setAge((int) age);
             root.setSpeciality(speciality);
 
