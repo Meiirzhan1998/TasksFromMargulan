@@ -6,7 +6,7 @@ public class Root {
     private int age;
     private String speciality;
 
-    public Root(){
+    public Root() {
 
     }
 
